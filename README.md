@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**RonaldTayie/RonaldTayie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Ronald Tayie Ngwenya 👋
 
 - 🔭 I’m currently working on ... VueJS and django(Python)
 - 🌱 I’m currently learning ... VueJS
