@@ -1,11 +1,11 @@
 ### Ronald Tayie Ngwenya 👋
 
-- 🔭 I’m currently working on ... ReactJS and django(Python)
-- 🌱 I’m currently learning ... ReactJS
+- 🔭 I’m currently working on ... VueJS and django(Python)
+- 🌱 I’m currently learning ... VueJS
 - 👯 I’m looking to collaborate on ... Python(Django)
-- 🤔 I’m looking for help with ... ReactJS
+- 🤔 I’m looking for help with ... Database Hosting
 - 💬 Ask me about ... Backend Development
-- 📫 How to reach me: ... https://maidportdemo.000webhostapp.com/
+- 📫 How to reach me: ... 1999roniengwegmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I have been coding since I was 12. I love backend development and am currently brushing up my design skills.
+- ⚡ Fun fact: ... I tend to solo development because I am a freelancer.
 -->
