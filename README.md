@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Backend Development
 - 📫 How to reach me: ... 1999roniengwegmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I tend to solo development because I am a freelancer.
+- ⚡ Fun fact: ... ..
 -->
