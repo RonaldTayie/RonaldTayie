@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Python(Django)
 - 🤔 I’m looking for help with ... Native Mobile Development
 - 💬 Ask me about ... Backend Development
-- 📫 How to reach me: ... 1999roniengwegmail.com
+- 📫 How to reach me: ... 1999roniengwe@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I learn fast, really fast.
 -->
