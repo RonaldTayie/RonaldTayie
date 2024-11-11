@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with ... Native Mobile Development
 - 💬 Ask me about ... Backend Development
 - 📫 How to reach me: ... 1999roniengwe@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... Flames.
 -->
